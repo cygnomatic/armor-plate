@@ -1,0 +1,34 @@
+armor_plate_v1.4\sys.o: ..\Core\Src\sys.c
+armor_plate_v1.4\sys.o: ../Core/Inc/sys.h
+armor_plate_v1.4\sys.o: ../Core/Inc/struct_typedef.h
+armor_plate_v1.4\sys.o: ../Core/Inc/tim.h
+armor_plate_v1.4\sys.o: ../Core/Inc/main.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+armor_plate_v1.4\sys.o: ../Core/Inc/stm32f1xx_hal_conf.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+armor_plate_v1.4\sys.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+armor_plate_v1.4\sys.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+armor_plate_v1.4\sys.o: ../Drivers/CMSIS/Include/core_cm3.h
+armor_plate_v1.4\sys.o: D:\Program Files\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+armor_plate_v1.4\sys.o: ../Drivers/CMSIS/Include/cmsis_version.h
+armor_plate_v1.4\sys.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+armor_plate_v1.4\sys.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+armor_plate_v1.4\sys.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+armor_plate_v1.4\sys.o: D:\Program Files\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+armor_plate_v1.4\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
