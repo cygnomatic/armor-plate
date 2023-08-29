@@ -18,4 +18,4 @@ Robomaster手持装甲板
 
 ## 效果
 ![armor](image/1.jpg)  
-![video](image/test.mp4)
+![video](image/test.gif)
